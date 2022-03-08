@@ -1,0 +1,10 @@
+{
+  "name": "rainbowbot-example-module",
+  "version": "1.0.0",
+  "description": "RainbowBOT Example Module",
+  "author": "Hatry1337",
+  "license": "ISC",
+  "dependencies": {
+    "rainbowbot-types": "^1.0.0"
+  }
+}
